@@ -1,2 +1,2 @@
 # brujula
-Proyecto desarrollado para empresa Softinnova
+Proyecto desarrollado por Alonso Ugarte para Softinnova
